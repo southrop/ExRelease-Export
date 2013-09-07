@@ -1,0 +1,11 @@
+v0.3
+- [FIX] Macro now correctly saves images from all open tabs (broken in v0.2)
+- [FEATURE] Progress bar is now displayed for creating images
+- [MISC] Code cleanup
+
+v0.2
+- [FEATURE] Macro now automatically saves images for all open tabs
+- [MISC] Cleaned code slightly
+
+v0.1
+- [FEATURE] Initial version
