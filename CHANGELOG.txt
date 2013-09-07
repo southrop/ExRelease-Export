@@ -1,11 +1,10 @@
 v0.3
-- [FIX] Macro now correctly saves images from all open tabs (broken in v0.2)
-- [FEATURE] Progress bar is now displayed for creating images
-- [MISC] Code cleanup
+* [FIX] Macro now correctly saves images from all open tabs (broken in v0.2)
+* [FEATURE] Progress bar is now displayed for creating images
 
 v0.2
-- [FEATURE] Macro now automatically saves images for all open tabs
-- [MISC] Cleaned code slightly
+* [FEATURE] Macro now automatically saves images for all open tabs
 
 v0.1
-- [FEATURE] Initial version
+* Initial version
+* [FEATURE] Macro automatically saves all bookmarked frames in the active tab as PNGs in the working directory
