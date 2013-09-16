@@ -1,3 +1,6 @@
+v0.4
+* [FIX] Progress window actually gets destroyed if there are no bookmarks (it would not get destroyed or be closeable in v0.3)
+
 v0.3
 * [FIX] Macro now correctly saves images from all open tabs (broken in v0.2)
 * [FEATURE] Progress bar is now displayed for creating images
